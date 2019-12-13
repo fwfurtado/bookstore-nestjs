@@ -1,0 +1,7 @@
+export enum Category {
+  ADVENTURE = 'ADVENTURE',
+  ROMANCE = 'ROMANCE',
+  HORROR = 'HORROR',
+  FANTASY = 'FANTASY',
+  SCIENCE = 'SCIENCE',
+}

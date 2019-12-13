@@ -1,0 +1,10 @@
+server:
+  port: 3000
+
+database:
+  type: 'postgres'
+  port: 5432
+  name: 'bookstore'
+
+jwt:
+  expires: '30m'
